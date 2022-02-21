@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey there 🤠
+
+## I'm Ido!
+
+I'm an aspiring full-stack developer who is all about creating beautiful projects that can help people.
 
 <!--
 **strauss02/strauss02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
