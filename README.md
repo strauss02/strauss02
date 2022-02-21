@@ -1,7 +1,6 @@
 # Hey there 🤠
 
-## I'm Ido!
-
+My name is Ido!  
 I'm an aspiring full-stack developer who is all about creating beautiful projects that can help people.
 
 <!--
