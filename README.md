@@ -1,7 +1,10 @@
 # Hey there 🤠
 
 My name is Ido!  
-I'm an aspiring full-stack developer who is all about creating beautiful projects that can help people.
+I'm an aspiring full-stack developer who is all about creating beautiful projects that can help people.  
+I invite you to take a look at any of my projects!  
+My profile is still in the process of finishing up and polishing, so I apologize ahead for any repos empty of readmes 😅
+
 
 <!--
 **strauss02/strauss02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
