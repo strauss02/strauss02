@@ -23,7 +23,14 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></div>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/-AWS-dead0d?style=flat-square&logo=amazonaws&logoColor=black" />
+  <img alt="mui" src="https://img.shields.io/badge/-MUI-333333?style=flat-square&logo=mui&logoColor=nav" />
+  <img alt="express" src="https://img.shields.io/badge/-express-444444?style=flat-square&logo=express&logoColor=nav" />
+  <img alt="figma" src="https://img.shields.io/badge/-Figma-2f3c5c?style=flat-square&logo=figma&logoColor=nav" />
+  <img alt="mysql" src="https://img.shields.io/badge/-mySQL-ffffff?style=flat-square&logo=mysql&logoColor=nav" />
+  <img alt="mysql" src="https://img.shields.io/badge/-Jest-662b60?style=flat-square&logo=jest" />
+  </div>
 
   </br>
 
@@ -39,10 +46,10 @@ As for now, my other projects are for you to behold...
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Project</b></td>
-      <td><b>🛎 Description</b></td>
+      <td><b>📝 Description</b></td>
       <td><b>⭐ Repo</b></td>
-      <td><b>📚 Link</b></td>
-      <td><b>Media</b></td>
+      <td><b>🔗 Link</b></td>
+      <td><b>💻 Media</b></td>
     </tr>
   </thead>
   <tbody>
@@ -52,7 +59,7 @@ As for now, my other projects are for you to behold...
       <td> <a href="https://github.com/strauss02/scraper-frontend">Frontend</a> 
        <a href="https://github.com/strauss02/scraper-backend">Backend</a> 
       </td>
-      <td>  <a href="https://bit.ly/3hE9Kyc"> Web App </a></td>
+      <td>  <a href="https://scrapaste.herokuapp.com/"> Web App </a></td>
     <td> Desktop & Mobile</td>
     </tr>
 	  <tr>
@@ -60,7 +67,7 @@ As for now, my other projects are for you to behold...
       <td> A mobile-first dictionary web app</td>
       <td> <a href="https://github.com/strauss02/dikto-frontend">Frontend</a> 
        <a href="https://github.com/strauss02/dikto-backend">Backend</a> </td>
-      <td> <a href="https://scrapaste.herokuapp.com/"> Web App </a></td>
+      <td> <a href="https://bit.ly/3hE9Kyc""> Web App </a></td>
       <td>Mobile</td>
     </tr>
     <tr>
@@ -72,7 +79,6 @@ As for now, my other projects are for you to behold...
     </tr>
   </tbody>
 </table>
-
 <!--
 **strauss02/strauss02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -85,4 +91,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
